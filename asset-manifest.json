@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/emperor-sleep-student/static/css/main.8e809a8a.chunk.css",
+    "main.js": "/emperor-sleep-student/static/js/main.2f30b2b5.chunk.js",
+    "main.js.map": "/emperor-sleep-student/static/js/main.2f30b2b5.chunk.js.map",
+    "runtime-main.js": "/emperor-sleep-student/static/js/runtime-main.59aa577e.js",
+    "runtime-main.js.map": "/emperor-sleep-student/static/js/runtime-main.59aa577e.js.map",
+    "static/css/2.4ea45184.chunk.css": "/emperor-sleep-student/static/css/2.4ea45184.chunk.css",
+    "static/js/2.23794e53.chunk.js": "/emperor-sleep-student/static/js/2.23794e53.chunk.js",
+    "static/js/2.23794e53.chunk.js.map": "/emperor-sleep-student/static/js/2.23794e53.chunk.js.map",
+    "index.html": "/emperor-sleep-student/index.html",
+    "precache-manifest.ebdda35831500be2c10d3b445dcd6b57.js": "/emperor-sleep-student/precache-manifest.ebdda35831500be2c10d3b445dcd6b57.js",
+    "service-worker.js": "/emperor-sleep-student/service-worker.js",
+    "static/css/2.4ea45184.chunk.css.map": "/emperor-sleep-student/static/css/2.4ea45184.chunk.css.map",
+    "static/css/main.8e809a8a.chunk.css.map": "/emperor-sleep-student/static/css/main.8e809a8a.chunk.css.map",
+    "static/js/2.23794e53.chunk.js.LICENSE.txt": "/emperor-sleep-student/static/js/2.23794e53.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/emperor-sleep-student/static/media/HoltwoodOneSC-Regular.97e22ea4.ttf",
+    "static/media/index.css": "/emperor-sleep-student/static/media/holtwood-one-sc-latin-400.f6b63d7e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59aa577e.js",
+    "static/css/2.4ea45184.chunk.css",
+    "static/js/2.23794e53.chunk.js",
+    "static/css/main.8e809a8a.chunk.css",
+    "static/js/main.2f30b2b5.chunk.js"
+  ]
+}
